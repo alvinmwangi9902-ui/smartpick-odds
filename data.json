@@ -1,0 +1,24 @@
+{
+    "last_updated": "07 Jun 2026, 15:43",
+    "slips": [
+        {
+            "matches": [
+                {
+                    "tournament": "ENG - PREMIER LEAGUE",
+                    "match": "Arsenal vs Chelsea",
+                    "confidence": "89%",
+                    "prediction": "Home Win (1)",
+                    "odds": 1.75
+                },
+                {
+                    "tournament": "ESP - LA LIGA",
+                    "match": "Real Madrid vs Barcelona",
+                    "confidence": "94%",
+                    "prediction": "Over 2.5 Goals",
+                    "odds": 1.62
+                }
+            ],
+            "total_odds": 2.83
+        }
+    ]
+}
