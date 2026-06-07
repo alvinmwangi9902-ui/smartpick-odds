@@ -1,21 +1,21 @@
 {
-    "last_updated": "07 Jun 2026, 16:17:29",
+    "last_updated": "07 Jun 2026, 16:18:36",
     "slips": [
         {
             "matches": [
                 {
-                    "tournament": "GLOBAL CLUB FRIENDLY",
-                    "match": "PSG vs Tusker FC",
-                    "prediction": "Away Win (2)",
-                    "odds": 1.22,
-                    "confidence": "92%"
+                    "tournament": "ENG - PREMIER LEAGUE",
+                    "match": "Man United vs Aston Villa",
+                    "prediction": "Over 1.5 Goals",
+                    "odds": 1.26,
+                    "confidence": "87%"
                 },
                 {
-                    "tournament": "GLOBAL CLUB FRIENDLY",
-                    "match": "Real Madrid vs AC Milan",
+                    "tournament": "ESP - LA LIGA",
+                    "match": "Sevilla vs Barcelona",
                     "prediction": "Home Win (1)",
-                    "odds": 1.28,
-                    "confidence": "97%"
+                    "odds": 1.24,
+                    "confidence": "89%"
                 }
             ],
             "total_odds": 1.56
