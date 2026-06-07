@@ -1,31 +1,24 @@
 {
-    "last_updated": "07 Jun 2026, 16:12:54",
+    "last_updated": "07 Jun 2026, 16:15:43",
     "slips": [
         {
             "matches": [
                 {
-                    "tournament": "ENG - PRO COMPETITION",
-                    "match": "Chelsea vs Liverpool",
+                    "tournament": "FA WOMEN'S SUPER LEAGUE",
+                    "match": "Manchester United W vs Tottenham Hotspur Women",
                     "prediction": "Away Win (2)",
-                    "odds": 1.2,
-                    "confidence": "89%"
+                    "odds": 1.25,
+                    "confidence": "97%"
                 },
                 {
-                    "tournament": "CAF - PRO COMPETITION",
-                    "match": "Yanga SC vs Mamelodi Sundowns",
-                    "prediction": "Double Chance (1X)",
-                    "odds": 1.17,
-                    "confidence": "90%"
-                },
-                {
-                    "tournament": "FRA - PRO COMPETITION",
-                    "match": "Lyon vs Marseille",
-                    "prediction": "Over 1.5 Goals",
-                    "odds": 1.17,
-                    "confidence": "92%"
+                    "tournament": "FA WOMEN'S SUPER LEAGUE",
+                    "match": "Arsenal WFC vs Bristol City WFC",
+                    "prediction": "Away Win (2)",
+                    "odds": 1.24,
+                    "confidence": "91%"
                 }
             ],
-            "total_odds": 1.64
+            "total_odds": 1.55
         }
     ]
 }
