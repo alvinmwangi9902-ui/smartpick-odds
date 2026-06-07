@@ -1,31 +1,24 @@
 {
-    "last_updated": "07 Jun 2026, 15:58",
+    "last_updated": "07 Jun 2026, 16:06",
     "slips": [
         {
             "matches": [
                 {
-                    "tournament": "INTERNATIONAL FRIENDLIES",
-                    "match": "Croatia vs Slovenia",
-                    "confidence": "87%",
+                    "tournament": "ESP - LA LIGA",
+                    "match": "Real Madrid vs Getafe",
                     "prediction": "Home Win (1)",
-                    "odds": 1.65
+                    "odds": 1.22,
+                    "confidence": "91%"
                 },
                 {
-                    "tournament": "INTERNATIONAL FRIENDLIES",
-                    "match": "Greece vs Italy",
-                    "confidence": "82%",
-                    "prediction": "Under 2.5 Goals",
-                    "odds": 1.72
-                },
-                {
-                    "tournament": "INTERNATIONAL FRIENDLIES",
-                    "match": "Morocco vs Norway",
-                    "confidence": "89%",
+                    "tournament": "ITA - SERIE A",
+                    "match": "Inter Milan vs Venezia",
                     "prediction": "Home Win (1)",
-                    "odds": 1.95
+                    "odds": 1.25,
+                    "confidence": "89%"
                 }
             ],
-            "total_odds": 5.53
+            "total_odds": 1.52
         }
     ]
 }
